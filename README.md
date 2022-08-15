@@ -8,6 +8,7 @@ Most of the data is credible.
 
 # Websites
 
+- https://intelx.io
 - https://nuwber.com/
 - https://thatsthem.com/
 - https://www.usphonebook.com/
